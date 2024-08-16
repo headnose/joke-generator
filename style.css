@@ -21,13 +21,10 @@ body {
   box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.4);
 }
 
-span {
+span, img {
   display: block;
   text-align: center;
   font-size: 100px;
-}
-
-img {
   width: 200px;
   height: 175px;
 }
